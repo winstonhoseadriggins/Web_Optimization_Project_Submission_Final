@@ -1,0 +1,30 @@
+{
+  "name": "web_optimization_project",
+  "version": "1.0.0",
+  "description": "web_optimization using gulp build tools",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test, help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "winstonhoseadriggins"
+  },
+  "keywords": [
+    "optimization"
+  ],
+  "author": "winstonhoseadriggins",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-cli": "^1.2.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-jshint": "^2.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.3",
+    "tslint-stylish": "^2.1.0-beta"
+  }
+}
