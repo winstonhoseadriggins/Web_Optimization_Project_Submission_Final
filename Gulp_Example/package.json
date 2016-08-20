@@ -1,0 +1,32 @@
+{
+  "name": "gulp_example",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "browser": "^0.2.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "sync": "^0.2.5"
+  },
+  "version": "1.0.0",
+  "description": "gulp_example_from_codecast",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "winstonhoseadriggins.git"
+  },
+  "keywords": [
+    "gulpfile",
+    "test"
+  ],
+  "author": "winstonhoseadriggins",
+  "license": "ISC"
+}
